@@ -7,3 +7,4 @@
 * git reset --hard {HEAD^ |HEAD~ |id} 版本回退{HEAD指针 | 版本id}
 * git reflog 查看历史命令
 * git diff HEAD {文件名} 文件与当前分支对比
+* git checkout -- {文件名} 撤销修改
