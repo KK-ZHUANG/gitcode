@@ -1,0 +1,5 @@
+#Git使用指南
+* git init 创建git仓库
+* git add 添加文件
+* git commit -m "message" 提交
+* git status 查看状态
