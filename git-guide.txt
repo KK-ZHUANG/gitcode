@@ -4,3 +4,4 @@
 * git commit -m "message" 提交
 * git status 查看状态
 * git log [--pretty=oneline] 查看提交历史[以一行显示]
+* git reset --head {HEAD^ |HEAD~ |id} 版本回退{HEAD指针 | 版本id} 
