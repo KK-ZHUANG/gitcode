@@ -3,3 +3,4 @@
 * git add 添加文件
 * git commit -m "message" 提交
 * git status 查看状态
+* git log 查看提交历史
