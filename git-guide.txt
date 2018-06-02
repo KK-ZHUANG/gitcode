@@ -15,3 +15,5 @@
 * git clone git@github.com:KK-ZHUANG/gitcode.git 克隆仓库
 * git checkout -b dev 创建分支并切换到分支
 * git branch 查看分支
+* git branch [分支名] 切换分支
+* git branch -d {分支名} 删除分支
