@@ -10,3 +10,5 @@
 * git checkout -- {文件名} 撤销修改(未使用add命令，还处于工作区，即用版本库文件替换工作区文件)
 * git reset HEAD {文件名} 撤销修改(从暂存区撤销到工作区)
 * git rm 删除文件
+* git remote origin git@github.com:KK-ZHUANG/gitcode.git 关联远程仓库
+* git push [-u] origin master 推送到远程仓库
