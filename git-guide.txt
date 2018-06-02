@@ -12,3 +12,4 @@
 * git rm 删除文件
 * git remote origin git@github.com:KK-ZHUANG/gitcode.git 关联远程仓库
 * git push [-u] origin master 推送到远程仓库
+* git clone git@github.com:KK-ZHUANG/gitcode.git 克隆仓库
