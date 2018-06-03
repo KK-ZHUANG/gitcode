@@ -20,3 +20,4 @@
 * git merge <name> 合并分支到当前分支
 * git branch -d <name> 删除分支
 * git log --graph --pretty=oneline --abbrev-commit 查看分支合并历史
+* git merge --no-ff -m "message" <name> 以no fast forward模式合并分支到当前分支
