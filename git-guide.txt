@@ -21,3 +21,8 @@
 * git branch -d <name> 删除分支
 * git log --graph --pretty=oneline --abbrev-commit 查看分支合并历史
 * git merge --no-ff -m "message" <name> 以no fast forward模式合并分支到当前分支
+* git stash 存储未提交分支工作区
+* git stash list 查看未提交分支工作区
+* git stash apply 恢复工作区 不删除
+* git stash drop 删除stash工作区
+* git stash pop 恢复工作区并删除stash
