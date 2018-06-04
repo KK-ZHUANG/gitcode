@@ -27,3 +27,6 @@
 * git stash drop 删除stash工作区
 * git stash pop 恢复工作区并删除stash
 * git branch -D <name> 强行删除分支
+* git branch --set-upstream-to=origin/dev dev 设置本地分支与远程分支的关联
+* git pull 获取最新提交
+* git checkout -b dev origin/dev 创建和远程分支对应的分支
