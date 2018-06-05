@@ -31,3 +31,6 @@
 * git pull 获取最新提交
 * git checkout -b dev origin/dev 创建和远程分支对应的分支
 * git rebase 整合分支
+* git tag 查看所有标签
+* git tag <tagname> [id] 新建标签[指定id]
+* git tag -a <tagname> -m "msg" 指定标签信息
