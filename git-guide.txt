@@ -30,3 +30,4 @@
 * git branch --set-upstream-to=origin/dev dev 设置本地分支与远程分支的关联
 * git pull 获取最新提交
 * git checkout -b dev origin/dev 创建和远程分支对应的分支
+* git rebase 整合分支
